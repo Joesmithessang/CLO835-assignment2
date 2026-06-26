@@ -1,5 +1,6 @@
 # TODO: Build your image and push it to Docker Hub automatically on every merge to master.
 # Use the repository secrets DOCKERHUB_USERNAME and DOCKERHUB_TOKEN - do NOT hard-code them.
+# Minor change
 name: Build and Push to Docker Hub
 
 on:
