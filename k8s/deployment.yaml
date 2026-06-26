@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: clo835-app
-          image: joesmithessang/clo835-assignment2:0.2
+          image: joesmithessang/clo835-assignment2:0.3
           ports:
             - containerPort: 8080
