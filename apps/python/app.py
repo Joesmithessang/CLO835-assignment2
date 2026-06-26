@@ -4,8 +4,8 @@
 # (replace <YOUR_STUDENT_ID> with your own Seneca student ID, e.g. 10112233)
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-VERSION = "0.3"
-MESSAGE = "Hello world from the CLO835 class and 113214258!"
+VERSION = "0.2"
+MESSAGE = "Hello world from the CLO835 class!"
 PORT = 8080
 
 
